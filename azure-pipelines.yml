@@ -1,5 +1,4 @@
-
- pool:
+   pool:
      vmImage: 'ubuntu-18.04'
    trigger:
      - master
